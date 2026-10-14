@@ -1,0 +1,21 @@
+StudentID,Name,Department,Math,Science,English,ComputerScience,Attendance
+STU001,Aarav Sharma,Computer Science,88,92,85,95,94
+STU002,Diya Patel,Information Technology,76,81,89,84,91
+STU003,Rohan Verma,Computer Science,95,98,91,99,98
+STU004,Ananya Iyer,Electronics,62,58,74,65,82
+STU005,Kabir Singh,Mechanical,45,52,50,48,70
+STU006,Meera Joshi,Computer Science,91,89,94,93,96
+STU007,Aditya Nair,Information Technology,84,79,82,88,89
+STU008,Pooja Reddy,Electronics,73,69,78,75,85
+STU009,Vikram Malhotra,Mechanical,58,64,62,60,78
+STU010,Sneha Kulkarni,Computer Science,94,96,90,98,97
+STU011,Arjun Gupta,Information Technology,35,42,48,51,68
+STU012,Tanvi Deshmukh,Electronics,82,85,88,86,92
+STU013,Siddharth Rao,Computer Science,79,84,80,82,88
+STU014,Ishita Sen,Information Technology,90,93,89,94,95
+STU015,Karan Mehta,Mechanical,68,71,65,70,81
+STU016,Neha Choudhury,Electronics,54,49,60,58,76
+STU017,Rahul Roy,Computer Science,77,80,75,83,86
+STU018,Priyanka Das,Information Technology,89,88,92,90,93
+STU019,Gaurav Bansal,Mechanical,42,38,55,46,65
+STU020,Rhea Kapoor,Electronics,86,90,87,89,90
